@@ -17,7 +17,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Você instalou a versão mais recente do Debian 12 
+* Você instalou a versão mais recente do Debian 12
+* Instalar a versão mais recente do Ubuntu Server 22.04
 * Você tem uma máquina `Windows Server EVALX64`.
 * Baixar uma iso do RouterOS Mikrotik no site: https://mikrotik.com/download
 
