@@ -93,4 +93,7 @@ Para tornar o monitoramento funcional é necessário que os hosts estejam devida
 
    ![image](https://github.com/edunando/Cen-rio-Zabbix-Configura-o-e-instala-o/assets/88983626/9cc00d24-3653-41fb-a6c0-9bfd52d8041f)
 
-## 😄 Seja um dos contribuidores
+## 😄 Após isso só repetir o processo para todos os outros hosts em sua rede!
+
+![image](https://github.com/edunando/Cen-rio-Zabbix-Configura-o-e-instala-o/assets/88983626/6711eb06-f680-4476-924c-9df658494a32)
+
