@@ -1,10 +1,7 @@
 # Instalação e Configuração do Zabbix-Server 6.0
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![image](https://github.com/edunando/Cen-rio-Zabbix-Configura-o-e-instala-o/assets/88983626/7aa75a9a-de59-4ef3-9ce4-e161c09e1bad)
+
 
 ### Ajustes e melhorias
 
